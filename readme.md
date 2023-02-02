@@ -1,4 +1,4 @@
-#Projeto Xadrez 
+### Projeto Xadrez 
 
 - Jogo de xadrez funcional
 - Projeto desenvolvido para Ímã Learning Place
